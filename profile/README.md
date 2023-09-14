@@ -1,4 +1,4 @@
-# Kampela
+# [Kampela](https://kampe.la)
 
 ## Reasonably secure hardware wallet for the [Polkadot](https://polkadot.network) ecosystem
 
