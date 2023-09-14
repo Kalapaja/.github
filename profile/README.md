@@ -2,6 +2,8 @@
 
 ## Reasonably secure hardware wallet for the [Polkadot](https://polkadot.network) ecosystem
 
+![kampela-logo-black-small](https://github.com/Kalapaja/.github/assets/152719/e2370cd8-d033-45e7-a971-6ada69aa6e81)
+
 Kampela is a hardware implementation of [Polkadot Vault](https://signer.parity.io/) (previously known as Parity Signer).
 It is a small card-shaped device (ideally comparable to a credit card form factor, to be carried in a wallet when needed) that accepts data through unidirectional NFC port and shows output on a monochrome electronic paper screen.
 It has cryptographic strongbox with elliptic curves supported by Substrate — which only stores private keys (after initial import) and performs all signing operations on-chip.
