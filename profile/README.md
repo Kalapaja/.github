@@ -1,6 +1,6 @@
 # [Kampela](https://kampe.la)
 
-## Reasonably secure hardware wallet for the [Polkadot](https://polkadot.network) ecosystem
+## Reasonably secure key storage device for the [Polkadot](https://polkadot.network) ecosystem
 
 ![kampela-logo-black-small](https://github.com/Kalapaja/.github/assets/152719/e2370cd8-d033-45e7-a971-6ada69aa6e81)
 
