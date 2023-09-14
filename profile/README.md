@@ -24,3 +24,5 @@ If you're here following the link in that (now-archived) repo, the new project s
 |[kampela-common](https://github.com/Kalapaja/kampela-common)|['common'](https://github.com/Alzymologist/Kampela/tree/main/common)|Collection of shared libraries used by both "hot" and "cold" side of the project|
 |[siltti](https://github.com/Kalapaja/siltti)|[application](https://github.com/Alzymologist/Kampela/tree/main/application)|Android companion app to interface with the device|
 |[docs](https://github.com/Kalapaja/docs)|[docs/development](https://github.com/Alzymologist/Kampela/tree/main/docs/development)|Miscellaneous docs documenting different aspects of the project|
+
+In addition to that, we're publishing both hardware and software sources of the [pilkki](https://github.com/Kalapaja/pilkki) project — the firmware flashing tool accompanying Kampela devkits.
