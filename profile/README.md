@@ -1,14 +1,14 @@
 # [Kampela](https://kampe.la)
 
-## Reasonably secure key storage device for the [Polkadot](https://polkadot.network) ecosystem
+## Reasonably secure key storage device
 
 ![kampela-logo-black-small](https://github.com/Kalapaja/.github/assets/152719/e2370cd8-d033-45e7-a971-6ada69aa6e81)
 
-Kampela is a hardware implementation of [Polkadot Vault](https://signer.parity.io/) (previously known as Parity Signer).
+Kampela is a air-gapped hardware key manager and signer device for blockchain systems.
 It is a small card-shaped device (ideally comparable to a credit card form factor, to be carried in a wallet when needed) that accepts data through unidirectional NFC port and shows output on a monochrome electronic paper screen.
-It has cryptographic strongbox with elliptic curves supported by Substrate — which only stores private keys (after initial import) and performs all signing operations on-chip.
+It has cryptographic strongbox — which only stores private keys (after initial import) and performs all signing operations on-chip.
 
-Kampela is a natural (and long-discussed) extension of Parity Signer to leverage the most out of modern hardware-based crypto chips and drastically reduce Signer’s attack surface: no mobile OS, not extra platform features, no unexpected communication methods or airplane mode to take care of.
+Kampela is is designed to leverage the most out of modern crypto chips and drastically reduce signer’s attack surface: no mobile OS, not extra platform features, no unexpected communication methods or airplane mode to take care of.
 
 ⚠️ Kampela is not a wallet! It is a signing tool, it is not able to track on-chain balances, validate things over chain-provided information or generate transactions on itself.
 
@@ -26,3 +26,5 @@ If you're here following the link in that (now-archived) repo, the new project s
 |[docs](https://github.com/Kalapaja/docs)|[docs/development](https://github.com/Alzymologist/Kampela/tree/main/docs/development)|Miscellaneous docs documenting different aspects of the project|
 
 In addition to that, we're publishing both hardware and software sources of the [pilkki](https://github.com/Kalapaja/pilkki) project — the firmware flashing tool accompanying Kampela devkits.
+
+This project was funded by Polkadot Treasury.
